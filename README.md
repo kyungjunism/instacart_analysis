@@ -17,3 +17,9 @@ In this notebook, we will try and explore the basic information about the datase
 The secondary goal of the project is to predict which products will be in a a return customer's next order and to form a recommendation engine much like Amazon's "Frequently Bought Together" section or Netflix's "Because you watched:" section. A reccomendation engine that suggests particular products from a user's current selection or prior order could potentially help drive more sales and faster checkouts.
 
 Methods Likely to be Used: A regression would most likely be used to see the relationship between what customers are likely to order again while XGBoost may be used for the reccomendation engine.
+
+Deliverables:
+
+The key deliverables for this project will include the iPython Notebook which contains the code for exploratory data analysis, the predictions, and the reccomendation engine. 
+
+[There will be a submission file for the Kaggle Competition as well.](https://www.kaggle.com/c/instacart-market-basket-analysis#evaluation)
