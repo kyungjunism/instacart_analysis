@@ -23,3 +23,9 @@ Deliverables:
 The key deliverables for this project will include the iPython Notebook which contains the code for exploratory data analysis, the predictions, and the reccomendation engine. 
 
 [There will be a submission file for the Kaggle Competition as well.](https://www.kaggle.com/c/instacart-market-basket-analysis#evaluation)
+
+#Data Cleaning/Wrangling
+
+As for Data Cleaning, THe bulk of the data was provided through Kaggle with data already cleaned for the project.
+
+However, some tables required data type changes, dropping of null values, and the creation of dummy variables to prepare the data for machine learning.
